@@ -24,12 +24,8 @@ Este projeto foi criado para fins educacionais e criativos, simulando uma compan
 ## 🎨 Tecnologias Utilizadas
 
 - **HTML5 / CSS3 / JavaScript**
-- **Figma / Framer** (para prototipação e design)
-- **React (opcional)** para componentes dinâmicos
-- **TailwindCSS** para estilização moderna
-- **Vite** ou **Webpack** para empacotamento (se for projeto com JS moderno)
-- [Outros frameworks ou bibliotecas que estiver usando...]
-
+- **Figma**
+- **Python**
 ---
 
 ## 📸 Identidade Visual
