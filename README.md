@@ -24,9 +24,8 @@ Este projeto foi criado para fins educacionais e criativos, simulando uma compan
 ## 🎨 Tecnologias Utilizadas
 
 - **HTML5 / CSS3 / JavaScript**
-- **Figma 
-- **Python 
-
+- **Figma**
+- **Python**
 ---
 
 ## 📸 Identidade Visual
