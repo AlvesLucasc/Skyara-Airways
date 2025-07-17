@@ -9,8 +9,38 @@ body {
 .page_1 {
     margin: 0;
     border: 0;
-    background-image: url(C:\Users\lukas\Documents\GitHub\SkyaraAirways\Skyara-Airways-\assets\img\BG_PAGE1.svg);
+    background-image: url(img/bg_skyara.svg);
     background-repeat: no-repeat;
     width: 100%;
     height: 600px;
+}
+
+
+.menu {
+    display: flex;   
+    text-align: center;
+    justify-content: space-between;
+    margin-left: 48px;
+    margin-right: 48px;
+    
+}
+
+li {
+    margin-right: 10px;
+
+}
+.center_menu {
+    list-style-type: none;
+    display: inline-block;
+    display: flex;
+    text-align: center;
+    color: white;
+}
+
+.login {
+    background: none;
+    border: none;
+    padding: 0px 10px;
+    
+
 }
