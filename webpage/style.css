@@ -8,84 +8,88 @@
   text-decoration: none;
 }
 
-html, body {
+html,
+body {
   width: 100%;
-  overflow-x: hidden;  
+  overflow-x: hidden;
   text-decoration: none;
 }
 
 .page_1 {
-    width: 100%;
-    aspect-ratio: 1440 / 650;
-    background-image: url(img/bg_skyara.svg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    
+  width: 100%;
+  aspect-ratio: 1440 / 650;
+  background-image: url(img/bg_skyara.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
 }
 
 
 .menu {
-    font-family: "Sofia Sans", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 155;
-    font-style: normal;
-    text-shadow: 4px 2px 8px black;
-    padding-top: 20px;
-    display: flex;
-    align-items: center; 
-    justify-content: space-between;
-    color: white;
-    list-style: none;
-    width: 100%;
-    padding-inline: 48px;
+  font-family: "Sofia Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 155;
+  font-style: normal;
+  text-shadow: 4px 2px 8px black;
+  padding-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: white;
+  list-style: none;
+  width: 100%;
+  padding-inline: 48px;
 }
 
 li {
-    margin-right: 10px;
+  margin-right: 10px;
 
 }
+
 .logo_button {
   text-decoration: none;
 
 }
+
 .center_menu {
-    display: flex;
-    justify-content: center;
-    padding: 0;
-    margin: 0;
-    gap: 48px;
-    list-style: none;
-    color: white;
-    
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+  gap: 48px;
+  list-style: none;
+  color: white;
+
 }
 
 .login_container {
   display: flex;
-  align-items: center; 
-  gap: 10px;           
+  align-items: center;
+  gap: 10px;
 }
 
 .login {
-    font-family: "Sofia Sans", sans-serif;
-    font-weight: bold;
-    color: rgb(255, 255, 255);
-    text-decoration: none;
-    
+  font-family: "Sofia Sans", sans-serif;
+  font-weight: 155;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
 }
 
+
+
 .cta_center h1 {
-    font-family: "Sofia Sans", sans-serif;
-    font-weight: 700;
-    font-size: 32px;
-    color: rgb(255, 255, 255);
-    text-decoration: none;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 100px;
-    padding: 0 20px;
-    text-shadow: 4px 2px 20px rgba(0, 0, 0, 0.411);   
+  font-family: "Sofia Sans", sans-serif;
+  font-weight: 700;
+  font-size: 38px;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  padding: 0 20px;
+  text-shadow: 4px 2px 20px rgba(0, 0, 0, 0.411);
 }
 
 .cta_center h2 {
@@ -96,23 +100,45 @@ li {
   text-decoration: none;
   display: flex;
   justify-content: center;
-  margin-top: 26px;
+  margin-top: 20px;
   align-items: center;
-  text-shadow: 4px 2px 20px rgba(0, 0, 0, 0.411); 
+  text-shadow: 4px 2px 20px rgba(0, 0, 0, 0.411);
 
 }
 
 .cta_center p {
   font-family: "Sofia Sans", sans-serif;
   font-weight: 700;
-  font-size: 26px;
+  font-size: 20px;
   color: rgb(255, 255, 255);
   text-decoration: none;
   display: flex;
   justify-content: center;
-  margin-top: 60px;
+  margin-top: 50px;
   align-items: center;
-  text-shadow: 4px 2px 20px rgba(0, 0, 0, 0.411); 
+  text-shadow: 4px 2px 20px rgba(0, 0, 0, 0.411);
 
 }
+
+
+.pesquisar_voo {
+  background-color: #78787848;
+  backdrop-filter: blur(2px);
+  padding: 18px 24px;
+  border-radius: 50px;
+  border: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px auto;
+  font-family: "Sofia Sans", sans-serif;
+  font-weight: 160;
+  font-size: 20px;
+  color: white;
+  box-shadow: 5px 6px 4px rgba(0, 0, 0, 0.411);
+  gap: 150px;
+  cursor: pointer;
+
+}
+
 
