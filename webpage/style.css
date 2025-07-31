@@ -108,13 +108,13 @@ li {
 
 .cta_center p {
   font-family: "Sofia Sans", sans-serif;
-  font-weight: 700;
-  font-size: 20px;
+  font-weight: 400;
+  font-size: 24px;
   color: rgb(255, 255, 255);
   text-decoration: none;
   display: flex;
   justify-content: center;
-  margin-top: 50px;
+  margin-top: 60px;
   align-items: center;
   text-shadow: 4px 2px 20px rgba(0, 0, 0, 0.411);
 
@@ -136,6 +136,7 @@ li {
   font-size: 20px;
   color: white;
   box-shadow: 5px 6px 4px rgba(0, 0, 0, 0.411);
+  
   gap: 150px;
   cursor: pointer;
 
