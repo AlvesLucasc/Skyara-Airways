@@ -136,10 +136,19 @@ li {
   font-size: 20px;
   color: white;
   box-shadow: 5px 6px 4px rgba(0, 0, 0, 0.411);
-  
   gap: 150px;
   cursor: pointer;
 
 }
 
-
+.barra_busca {
+  background-color: white;
+  width: 1180px;
+  height: 350px;
+  border-radius: 20px;
+  display: block;
+  margin: 0 auto;
+  z-index: 10;
+  margin-top: -100px;
+  box-shadow: 5px 5px 8cap black;  
+}
