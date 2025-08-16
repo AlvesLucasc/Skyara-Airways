@@ -136,10 +136,42 @@ li {
   font-size: 20px;
   color: white;
   box-shadow: 5px 6px 4px rgba(0, 0, 0, 0.411);
-  
   gap: 150px;
   cursor: pointer;
 
 }
 
+.barra_buscar {
+  width: 1180px;
+  height: 350px;
+  background-color: whitesmoke;
+  border-radius: 20px;
+  display: flex;
+  margin: 0 auto;
+  margin-top: -120px;
+  z-index: 10;
+  box-shadow: 2px 2px 8px black;
+  
+}
 
+.barra_buscar ul  {
+  padding: 20px;
+  font-family: "Sofia Sans", sans-serif;
+  font-weight: 400;
+  font-size: 28px;
+  color: rgba(236, 39, 27, 1);
+  text-shadow: 2px 2px 12px rgba(0, 0, 0, 0.425);
+  text-decoration: none;
+  display: flex;
+  justify-content: space-between;
+  padding-inline: 48px;
+  list-style: none; 
+     
+}
+.barra_buscar a {
+  color: rgba(236, 39, 27, 1);
+}
+.barra_buscar li {
+  margin-right: 135px; 
+}
+ 
